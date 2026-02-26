@@ -5,6 +5,7 @@
   "authors": ["LukaSyntax"],
   "icon_url": "https://raw.githubusercontent.com/not-so-sure/IronNest-Working-Coffee/refs/heads/main/coffee.png",
   "release": "https://github.com/not-so-sure/IronNest-Working-Coffee/releases/download/Release/coffeeMod.dll",
+  "isMod": true
   "required_libs": {
   },
   "breaks_with": [
