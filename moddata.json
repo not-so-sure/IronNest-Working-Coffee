@@ -3,7 +3,7 @@
   "name": "Working Coffee Machine",
   "description": "Allows coffee to be drinkable in the game!",
   "authors": ["LukaSyntax"],
-  "icon_url": "https://raw.githubusercontent.com/not-so-sure/IronNest-Working-Coffee/refs/heads/main/coffee.png",
+  "icon_url": "https://raw.githubusercontent.com/not-so-sure/IronNest-Working-Coffee/main/coffee.png",
   "release": "https://github.com/not-so-sure/IronNest-Working-Coffee/releases/download/Release/coffeeMod.dll",
   "isMod": true,
   "required_libs": {},
